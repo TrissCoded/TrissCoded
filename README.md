@@ -1,9 +1,9 @@
 # 🌸 Hello World! I'm TrissCoded! 🌸 
 
 ## About Me
-🌸My name is Tyristan, I run my own design studio "Made In Tyland"
+🌸My name is Tyristan, I run my own design studio "Made In Tyland"<br>
 🌸 I’m interested in web development, UX/UI Design, and creative coding projects  
-🌸I’m looking to collaborate on open-source projects and innovative web apps
+🌸I’m looking to collaborate on open-source projects and innovative web apps<br>
 🌸How to reach me: <br>
            <br> Email- [tytmurphy@gmail.com] <br>
            <br>   LinkedIn- [https://www.linkedin.com/in/tyristanmurphy/] <br>
